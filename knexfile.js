@@ -13,7 +13,7 @@ module.exports = {
       directory: './data/seeds'
     },
     connection: {
-      filename: './data/database.db3'
+      filename: './data/recipes-list.db3'
       },
     useNullAsDefault: true
     }
